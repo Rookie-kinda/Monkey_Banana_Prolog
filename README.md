@@ -3,7 +3,10 @@
 The **Monkey and Banana Problem** is a classic artificial intelligence problem that demonstrates state-space search. The objective is to model the problem in Prolog and solve it using logical rules and search techniques.
 
 ---
+## Problem Statement
+A monkey is located in a room. Suspended from the ceiling is a bunch of bananas, beyond the monkey's reach. However, in the room there are also a chair and a stick. The ceiling is just the right height so that a monkey standing on a chair could knock the bananas down with the stick. The monkey knows how to move around, carry other things around, reach for the bananas, and wave a stick in the air.
 
+Develop a Prolog program that is used to solve this problem by showing if an input initial state for the monkey can lead it to either achieve the main goal or not. The main goal is to allow the monkey to knock the bunch of bananas down. Show how to represent the state of a monkey in the room and the final goal. Suggest two different initial states that will reach the main goal. In each of these two states, draw a complete goal searching diagram to show in detail how an initial state leads to the final goal. Suggest another two different initial states that will NOT lead to the main goal. Describe in detail why these two states will not reach the main goal.
 ## Problem Description
 
 A monkey is in a room where:
