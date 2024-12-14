@@ -132,6 +132,18 @@ solve(state(on_chair, no, under_banana, window, no)).
 ```
 
 ---
+## Goal Searching Diagrams
+### Goal Searching Diagram For the First Query
+![Case 1](https://github.com/user-attachments/assets/9e8db5ce-ddf3-4ca4-9b1d-4b0714e3150e)
+
+### Goal Searching Diagram For the Second Query
+![Case 2](https://github.com/user-attachments/assets/c8729c39-8b95-4a1f-8092-69b08e4d21a1)
+
+### Goal Searching Diagram For the Third Query
+![Case 3](https://github.com/user-attachments/assets/9e381ccb-a3a5-4f00-a400-69f94a276ff9)
+
+### Goal Searching Diagram For the Fourth Query
+![Case 4](https://github.com/user-attachments/assets/eadee0e9-9530-4de8-9449-acab1e265955)
 
 ## How to Run the Program
 
